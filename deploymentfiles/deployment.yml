@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: chirukeerthi/movies:latest
+        image: chirukeerthi/movies:latest-7
         ports:
         - containerPort: 8080
 
