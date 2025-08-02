@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: chirukeerthi/train:3
+        image: chirukeerthi/train:4
         ports:
         - containerPort: 8080
 
